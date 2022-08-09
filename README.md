@@ -44,15 +44,16 @@ Soy tecnóloga en sistemas y computación, mis intereses son orientados hacia di
 
 ## ✏ &nbsp;&nbsp;Donde he estudiado:
 
+<p align="center">
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white" />
-
 </p>
 
 ## ⚒️ &nbsp;&nbsp;Trabajo Actualmente:
 
+<p align="center">
 <a href="https://motosmart.co/nosotros/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/motosmart.png" /></a>
-
+</p>
 ## 🌎 &nbsp;&nbsp; Encuentrame en las siguientes redes sociales:
 
 <p align="center">
