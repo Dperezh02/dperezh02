@@ -2,10 +2,10 @@
 
 ![header dani](https://github.com/Dperezh02/dperezh02/blob/master/Imagenes/Banner%20Dani.png)
 
-Soy tecnóloga en sistemas y computación, mis intereses son orientados hacia diseño y desarrollo de pruebas funcionales. Me desempeño como una persona responsable, comprometida con mi trabajo y los objetivos que pueda establecer una empresa, cuento con gran interés en aumentar mi conocimiento, con capacidad de organización, trabajo en equipo y un buen desempeño trabajando bajo presión.
+Soy tecnóloga en sistemas y computación [👩‍💻](#-ide-), mis intereses son orientados hacia diseño y desarrollo de pruebas funcionales. Me desempeño como una persona responsable, comprometida con mi trabajo y los objetivos que pueda establecer una empresa, cuento con gran interés en aumentar mi conocimiento, con capacidad de organización, trabajo en equipo y un buen desempeño trabajando bajo presión.
 
-## Frase que me inspira 
-💬 &nbsp;&nbsp; **Falla rapido** para **F**acilitar el **A**prendizaje de **L**ecciones **L**ibre de **A**ngustias y **R**apido 
+## [📝](#-blog-) Frase que me inspira:
+**Fallar**, **F**acilitar el **A**prendizaje de **L**ecciones **L**ibre de **A**ngustias y **R**apido. 💬 &nbsp;&nbsp; 
 
 ## 💻 &nbsp;&nbsp; Tecnologias que conozco:
 
