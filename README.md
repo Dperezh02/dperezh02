@@ -5,9 +5,9 @@
 Soy tecnóloga en sistemas y computación [👩‍💻](#-ide-), mis intereses son orientados hacia diseño y desarrollo de pruebas funcionales. Me desempeño como una persona responsable, comprometida con mi trabajo y los objetivos que pueda establecer una empresa, cuento con gran interés en aumentar mi conocimiento, con capacidad de organización, trabajo en equipo y un buen desempeño trabajando bajo presión.
 
 ## [📝](#-blog-) Frase que me inspira:
-**Fallar**, **F**acilitar el **A**prendizaje de **L**ecciones **L**ibre de **A**ngustias y **R**apido. 💬 &nbsp;&nbsp; 
+**Fallar**, **F**acilitar el **A**prendizaje de **L**ecciones **L**ibre de **A**ngustias y **R**ápido. 💬 &nbsp;&nbsp; 
 
-## 💻 &nbsp;&nbsp; Tecnologias que conozco:
+## 💻 &nbsp;&nbsp; Tecnologías que conozco:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
@@ -55,12 +55,12 @@ Soy tecnóloga en sistemas y computación [👩‍💻](#-ide-), mis intereses s
 <a href="https://motosmart.co/nosotros/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/motosmart.png" /></a>
 </p>
 
-## 🌎 &nbsp;&nbsp; Encuentrame en las siguientes redes sociales:
+## 🌎 &nbsp;&nbsp; Encuéntrame en las siguientes redes sociales:
 
 <p align="center">
   <a href="mailto:hpd2316@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daniela-p%C3%A9rez-henao-497900215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/023_dp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/573133278622?text=Hola%20Daniela"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="CSS" />&nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/k1uV4VPat9QY"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="CSS" />&nbsp;&nbsp;
 </p>
