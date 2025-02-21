@@ -52,7 +52,7 @@ Soy tecnóloga en sistemas y computación [👩‍💻](#-ide-), mis intereses s
 ## ⚒️ &nbsp;&nbsp;Trabajo Actualmente:
 
 <p align="center">
-<a href="https://co.linkedin.com/company/grupotec-sas"><img src="[https://github.com/jackmaf/jackmaf/blob/master/Imagenes/motosmart.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fgrupotec-sas&psig=AOvVaw3N8PGQDpWp2xPrQWlLqUvH&ust=1740205950190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCN-r2S1IsDFQAAAAAdAAAAABAE)" /></a>
+<a href="https://co.linkedin.com/company/grupotec-sas"><img src="Imagenes/grupotec_sas_logo.jpeg" /></a>
 </p>
 
 ## 🌎 &nbsp;&nbsp; Encuéntrame en las siguientes redes sociales:
@@ -60,7 +60,7 @@ Soy tecnóloga en sistemas y computación [👩‍💻](#-ide-), mis intereses s
 <p align="center">
   <a href="mailto:hpd2316@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daniela-p%C3%A9rez-henao-497900215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/023_dp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dani_perzh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/573133278622?text=Hola%20Daniela"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://join.skype.com/invite/k1uV4VPat9QY"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="CSS" />&nbsp;&nbsp;
 </p>
