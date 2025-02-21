@@ -1,4 +1,4 @@
-# 👋 Hola, Bienvenid@ a mi perfil
+# Hola 👋, Bienvenid@ a mi perfil
 
 ![header dani](https://github.com/Dperezh02/dperezh02/blob/master/Imagenes/Banner%20Dani.png)
 
@@ -52,7 +52,7 @@ Soy tecnóloga en sistemas y computación [👩‍💻](#-ide-), mis intereses s
 ## ⚒️ &nbsp;&nbsp;Trabajo Actualmente:
 
 <p align="center">
-<a href="https://motosmart.co/nosotros/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/motosmart.png" /></a>
+<a href="https://co.linkedin.com/company/grupotec-sas"><img src="[https://github.com/jackmaf/jackmaf/blob/master/Imagenes/motosmart.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fgrupotec-sas&psig=AOvVaw3N8PGQDpWp2xPrQWlLqUvH&ust=1740205950190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCN-r2S1IsDFQAAAAAdAAAAABAE)" /></a>
 </p>
 
 ## 🌎 &nbsp;&nbsp; Encuéntrame en las siguientes redes sociales:
